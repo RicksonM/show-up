@@ -10100,7 +10100,8 @@ header.masthead {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;
+  background-size: 50%;
+  background-color: rgb(25, 0, 49);
 }
 header.masthead h1 {
   font-size: 2.25rem;
